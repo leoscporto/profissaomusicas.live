@@ -272,3 +272,12 @@ tr {
       font-style: italic;
       text-shadow: #000000 0px 1px 0px;
     }
+
+.input-hidden{
+  height:0;
+  width:0;
+  visibility: hidden;
+  padding:0;
+  margin:0;
+  float:right;
+}
